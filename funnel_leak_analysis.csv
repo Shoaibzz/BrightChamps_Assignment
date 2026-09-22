@@ -1,0 +1,5 @@
+Leak,Leads Lost,Revenue Opportunity
+Lead → Demo Scheduled,1771,
+Demo Scheduled → Demo Joined,1169,7863326.107153918
+Demo Joined → Demo Completed,274,2888970.873786408
+Demo Completed → Converted,1424,17317625.97984323
